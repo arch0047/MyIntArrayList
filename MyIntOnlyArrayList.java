@@ -72,13 +72,6 @@ public class MyIntOnlyArrayList {
             }
         }
 
-        //int[] newIntArray= new int [OnlyIntArray.length-1];
-
-       // for (int i = 0; i < OnlyIntArray.length; i++) {
-         //   newIntArray[i]= OnlyIntArray[i];
-      //  }
-        //  return newIntArray;
-
 
 
 
