@@ -31,9 +31,7 @@ public class MyIntOnlyArrayList {
          public int getIndex(int index)
         {
             return OnlyIntArray[index];
-             // Saves new data in data array by overwriting the old array //
-            // sends back data and adds value at the back of the new array
-        }
+            
 
         public int[] add()
          {
